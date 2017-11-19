@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# ignore vps-setting-scrips/venv/
+vps-setting-scrips/venv/
+vps-setting-scrips/.idea/
+
